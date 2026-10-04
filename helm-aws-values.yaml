@@ -1,0 +1,3 @@
+frontend:
+  externalService: true
+  platform: aws
